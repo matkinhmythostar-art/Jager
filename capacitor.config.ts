@@ -1,0 +1,1 @@
+export default {appId:'vn.matkinhtho.jaeger',appName:'MẮT KÍNH MỸ THO',webDir:'.'};
